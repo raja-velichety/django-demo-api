@@ -55,6 +55,6 @@ Copy code
 python manage.py runserver
 Visit http://127.0.0.1:8000/ to view the API.
 
-API Endpoints
+#API Endpoints
 POST /api/invoices/ — Create a new invoice.
 PUT /api/invoices/ — Update a invoice
